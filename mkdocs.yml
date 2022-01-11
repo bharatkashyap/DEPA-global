@@ -1,0 +1,8 @@
+site_name: ln(DEPA-global)
+nav:
+  - Home: index.md
+  - work-items/index.md
+  - minutes/index.md
+  - nomenclature.md
+  - bibliography.md
+theme: pulse
